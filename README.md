@@ -7,7 +7,7 @@ Deep learning models for sentiment analysis classification of greek general elec
 
 Four different classifiers have been developed on the same datasets using real twitter data:
 
-## [Softmax Regression](https://github.com/pavlosdais/NLP/blob/main/SoftmaxRegression)
+### [Softmax Regression](https://github.com/pavlosdais/Deep-Learning-NLP/tree/main/SoftmaxRegression)
 In short, experimented with:
 
 - Data preprocessing
@@ -17,7 +17,7 @@ In short, experimented with:
 
 Place `36/114` at the course's [kaggle](https://www.kaggle.com/competitions/ys19-2023-assignment-1/leaderboard) competition.
 
-## [Feed Forward Neural Network](https://github.com/pavlosdais/NLP/blob/main/FFNN)
+### [Feed Forward Neural Network](https://github.com/pavlosdais/Deep-Learning-NLP/tree/main/FFNN)
 In short, experimented with:
 
 - Data preprocessing
@@ -31,7 +31,7 @@ In short, experimented with:
 
 Place `1/95` at the course's [kaggle](https://www.kaggle.com/competitions/ys19-2023-assignment-2/leaderboard) competition.
 
-## [Recurrent Neural Network](https://github.com/pavlosdais/NLP/blob/main/RNN)
+### [Recurrent Neural Network](https://github.com/pavlosdais/Deep-Learning-NLP/tree/main/RNN)
 In short, experimented with:
 
 - Data preprocessing
@@ -44,7 +44,7 @@ In short, experimented with:
 
 Place `1/84` at the course's [kaggle](https://www.kaggle.com/competitions/ys19-2023-assignment-3/leaderboard) competition.
 
-## [BERT](https://github.com/pavlosdais/NLP/blob/main/BERT)
+### [BERT](https://github.com/pavlosdais/Deep-Learning-NLP/tree/main/BERT)
 In short, experimented with:
 
 - Data preprocessing
@@ -55,5 +55,5 @@ In short, experimented with:
 
 Place `6/70` at the course's [kaggle](https://www.kaggle.com/competitions/ys19-2023-assignment-4a/leaderboard) competition.
 
-## About
+### About
 The models were created for the [Artificial Intelligence II](https://www.di.uoa.gr/en/studies/undergraduate/805) course under prof. [Manolis Koubarakis](https://cgi.di.uoa.gr/~koubarak/).
